@@ -6,6 +6,7 @@
 
 - `monitoring/`：Prometheus + Node Exporter + Alertmanager + Grafana。
 - `web-app/`：Nginx 反向代理 + 应用 + Redis + MySQL 的示例编排。
+- `mysql-redis/`：MySQL 8 + Redis 7 的持久化与健康检查示例。
 
 ## 使用
 
